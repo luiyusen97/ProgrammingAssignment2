@@ -71,5 +71,3 @@ xmat <- makeCacheMatrix()
 xmat$set(matrix(1:4, 2, 2))
 print(xmat$get())
 print(cacheSolve(xmat))
-
-#example function for calcing mean=============================================
